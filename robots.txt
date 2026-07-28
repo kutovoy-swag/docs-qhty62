@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-9lhog3.koi888.xyz/sitemap.xml
